@@ -1,3 +1,3 @@
 # firebase-web-starter-practice
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/PrithveeOjha/firebase-web-starter-practice)
+Learned basic firebase implementation with firebase auth, firestore, and basic security measueres.
